@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <!--audio permissions-->
+    <string name="permission_audio_title">Read Audio Permission</string>
+    <string name="permission_audio_description">This permission is needed to read your Audio files. Please grant the permission.</string>">
+    <string name="permission_audio_permanently_denied_description">Go to sittings and please grant the permission.</string>
+</resources>
